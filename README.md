@@ -9,7 +9,7 @@
 <p>This is my professional GitHub account at Autobia!</p>
 
 ### A little more about me...  
-
+~~~
 javascript
 const Majed Biazid = {
   pronouns: "He" | "Him",
@@ -19,7 +19,7 @@ const Majed Biazid = {
   tools: [React, Redux, Node, Jest, Tailwind, MongoDB, Firebase, AlgoliaSearch, MUI5],
   workingAt: Autobia
 }
-
+~~~
 [![Majed1945's GitHub stats](https://github-readme-stats.vercel.app/api?username=Majed1945&show_icons=true&theme=radical)](https://github.com/Majed1945)
 
 
