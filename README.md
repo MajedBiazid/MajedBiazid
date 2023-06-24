@@ -2,7 +2,7 @@
 
 [![Linkedin: Majed Biazid](https://img.shields.io/badge/-MajedBiazid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/majed-biazid-174b1b260/)](https://www.linkedin.com/in/majed-biazid-174b1b260/)
 
-<img align='right' src="https://nanomaterialsynthesis.com/wp-content/uploads/2020/11/KFUPM-logo-transparent2.png" width="230">
+<img align='right' src="https://nanomaterialsynthesis.com/wp-content/uploads/2020/11/KFUPM-logo-transparent2.png" width="230"><img align='right' src="https://nanomaterialsynthesis.com/wp-content/uploads/2020/11/KFUPM-logo-transparent2.png" width="230">
 <p><em>Senior Software Engineer at <a href="">King Fahd University of Petroleum and Minerals</a><img 
 </em></p>
 <p>Currently working as a front-end engineer at Autobia</p>
