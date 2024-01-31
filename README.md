@@ -13,10 +13,10 @@
 ```javascript
 const Majed Biazid = {
   pronouns: "He" | "Him",
-  education: "UnderGraduate Software Student",
-  otherAlias: "Full Stack Developer",
+  education: "UnderGraduate Senior Software Student",
+  otherAlias: "Front-End Engineer",
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Jest, Tailwind, MUI5, AlgoliaSearch, MongoDB, Firebase],
+  tools: [React, Redux, Node, Jest, Tailwind, MUI5, AlgoliaSearch, MongoDB, Firebase, React Native],
   workingAt: Autobia
 }
 ```
